@@ -4,14 +4,14 @@ function toggleMode() {
 
   if (html.classList.contains('light')){
     html.classList.remove('light')
-    img.src="./assets/assets/avatar-Arthur.png"
-    img.alt = "Foto de Arthur sorrindo, com óculos e camiseta listrada no modo escuro."
+    img.src=""
+    img.alt = "Modo escuro."
 
    }else {
     html.classList.add('light')
-    img.src="./assets/assets/avatar-Arthur.png"
-    img.alt = "Foto de Arthur sorrindo, com óculos e camiseta listrada no modo claro."
+    img.src=""
+    img.alt = "Modo claro."
   }
-  a
+  
   
 }
